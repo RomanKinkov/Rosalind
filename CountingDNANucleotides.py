@@ -7,3 +7,4 @@ with open("d:\data\input.txt") as file:
 
 with open("d:\data\output.txt", "w") as file:
     file.write(str(a_count) + " " + str(c_count) + " " + str(g_count) + " " + str(t_count))
+##comment
